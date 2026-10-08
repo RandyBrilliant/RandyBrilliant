@@ -2,7 +2,9 @@
 
 **Full-stack engineer · Co-founder, [Trixync](https://trixync.id)** · Medan, Indonesia
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=0EA5E9&center=true&vCenter=true&width=520&lines=Building+production+software+for+Indonesian+businesses;Django+%2B+React+%2F+Next.js+%2B+Flutter;ERP%2C+marketplaces%2C+CRMs%2C+and+IoT+systems" alt="Typing intro" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=0EA5E9&center=true&vCenter=true&width=824&letterSpacing=0.05em&lines=Building+production+software+for+Indonesian+businesses;Django+%2B+React+%2F+Next.js+%2B+Flutter;ERP%2C+marketplaces%2C+CRMs%2C+and+IoT+systems" alt="Typing intro" style="max-width: 100%; height: auto;" />
+</div>
 
 ---
 
