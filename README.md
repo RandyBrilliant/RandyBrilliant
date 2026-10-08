@@ -38,9 +38,9 @@ More builds and stack details on **[rbrilliant.me](https://rbrilliant.me)** and 
 ### GitHub snapshot
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RandyBrilliant&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=RandyBrilliant&show_icons=true&theme=default&hide_border=true&include_all_commits=true" />
-  <img alt="Randy's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=RandyBrilliant&show_icons=true&theme=default&hide_border=true&include_all_commits=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RandyBrilliant&show_icons=true&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=RandyBrilliant&show_icons=true&theme=default&hide_border=true" />
+  <img alt="Randy's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=RandyBrilliant&show_icons=true&theme=default&hide_border=true" />
 </picture>
 
 <picture>
